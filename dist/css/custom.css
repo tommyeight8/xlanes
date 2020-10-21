@@ -1,0 +1,14 @@
+.bg-location {
+    background-color:#cc0000;
+}
+
+.item-caption {
+    background-color: rgb(32, 32, 32);
+    padding: 5px 20px;
+}
+
+@media only screen and (max-width: 420px) {
+    .location {
+        font-size:3vw;
+    }
+}
